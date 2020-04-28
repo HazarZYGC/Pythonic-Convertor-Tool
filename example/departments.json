@@ -1,0 +1,2154 @@
+{
+    "departments": {
+        "university": [
+            {
+                "@name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+                "@uType": "Devlet",
+                "item": [
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110442",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "3",
+                            "#text": "90"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "37000",
+                            "#text": "425,12447"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110451",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Çevre Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "80"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "232000",
+                            "#text": "266,94283"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110469",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "3",
+                            "#text": "90"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "41100",
+                            "#text": "418,0695"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110478",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "3",
+                            "#text": "90"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "50000",
+                            "#text": "403,47177"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110487",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "3",
+                            "#text": "90"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "62400",
+                            "#text": "385,17519"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103130128",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "Yes",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "3",
+                            "#text": "90"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "86300",
+                            "#text": "355,9879"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110496",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Jeofizik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "1",
+                            "#text": "20"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110503",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Jeoloji Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "1",
+                            "#text": "30"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110512",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Maden Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110521",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "3",
+                            "#text": "90"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "55200",
+                            "#text": "395,47115"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103130137",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "Yes",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "3",
+                            "#text": "90"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "75500",
+                            "#text": "368,18479"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110539",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Metalurji ve Malzeme Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "142000",
+                            "#text": "309,13777"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103110548",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Tekstil Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "1",
+                            "#text": "40"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    }
+                ]
+            },
+            {
+                "@name": "EGE ÜNİVERSİTESİ",
+                "@uType": "Devlet",
+                "item": [
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410333",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "3",
+                            "#text": "100"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "34100",
+                            "#text": "430,49316"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410342",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Biyomühendislik"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "115000",
+                            "#text": "329,04377"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410351",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Deri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "1",
+                            "#text": "20"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410369",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "80"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "41300",
+                            "#text": "417,59504"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410378",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Gıda Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "4",
+                            "#text": "130"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "165000",
+                            "#text": "295,84276"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410387",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "52700",
+                            "#text": "399,18119"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410396",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Kimya Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "80"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "88600",
+                            "#text": "353,42893"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410403",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "80"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "47100",
+                            "#text": "407,98429"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "103410412",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Tekstil Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "80"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    }
+                ]
+            },
+            {
+                "@name": "YAŞAR ÜNİVERSİTESİ",
+                "@uType": "Vakıf",
+                "item": [
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010309",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "7"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010318",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "5"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "35000",
+                            "#text": "428,71376"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010327",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "16"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "81300",
+                            "#text": "361,47049"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010866",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "22"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "195000",
+                            "#text": "281,5025"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010424",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "3"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010433",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "5"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "45100",
+                            "#text": "411,23348"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010442",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "12"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "93800",
+                            "#text": "348,12517"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011079",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "30"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "272000",
+                            "#text": "254,97478"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010336",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "10"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010345",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "6"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "38400",
+                            "#text": "422,78314"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010354",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "8"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "69400",
+                            "#text": "375,92321"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011088",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "36"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "230000",
+                            "#text": "267,69849"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011025",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Enerji Sistemleri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "3"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011034",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Enerji Sistemleri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "3"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "60100",
+                            "#text": "388,38184"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011043",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Enerji Sistemleri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "18"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "218000",
+                            "#text": "272,2206"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011052",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Enerji Sistemleri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "6"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011149",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "6"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011113",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "5"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "71200",
+                            "#text": "373,61939"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011122",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "11"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "106000",
+                            "#text": "336,03835"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206011131",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "28"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "283000",
+                            "#text": "252,00511"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206090348",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "3"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206090347",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "3"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "56300",
+                            "#text": "393,87238"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206090354",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "14"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206090355",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "10"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010557",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Yazılım Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "4"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010566",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Yazılım Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "5"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "34800",
+                            "#text": "429,13373"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010584",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Yazılım Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "12"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "66400",
+                            "#text": "379,71841"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "206010875",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Yazılım Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "29"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "256000",
+                            "#text": "259,5568"
+                        },
+                        "grant": "25"
+                    }
+                ]
+            },
+            {
+                "@name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+                "@uType": "Vakıf",
+                "item": [
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510022",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "4"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "22900",
+                            "#text": "452,64899"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510676",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "24"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "47500",
+                            "#text": "407,33432"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510746",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "16"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "199000",
+                            "#text": "279,65982"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511374",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Biyomedikal Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "2"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "51200",
+                            "#text": "401,55931"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511383",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Biyomedikal Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "22"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "188000",
+                            "#text": "284,42427"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510879",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "4"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "41200",
+                            "#text": "417,85017"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510888",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "32"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "70200",
+                            "#text": "374,85676"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510897",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "4"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510049",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "5"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "30100",
+                            "#text": "438,24642"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510694",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "35"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "54100",
+                            "#text": "397,07123"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510764",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "14"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "264000",
+                            "#text": "257,14913"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511338",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Genetik ve Biyomühendislik"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "3"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "54200",
+                            "#text": "396,85601"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511471",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Genetik ve Biyomühendislik"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "30"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "234000",
+                            "#text": "266,39315"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510913",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Gıda Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "2"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "137000",
+                            "#text": "312,72264"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510922",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Gıda Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "18"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "235000",
+                            "#text": "265,98736"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511453",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Havacılık ve Uzay Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "3"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "42200",
+                            "#text": "416,06253"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511489",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Havacılık ve Uzay Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "30"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "194000",
+                            "#text": "281,77961"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511153",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "5"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "58600",
+                            "#text": "390,49179"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511444",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "36"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "106000",
+                            "#text": "336,17099"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511277",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "9"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "285000",
+                            "#text": "251,66609"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511435",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "4"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "42800",
+                            "#text": "414,98346"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511408",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "36"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "80100",
+                            "#text": "362,85975"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511347",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Mekatronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "3"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "47600",
+                            "#text": "407,07382"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511356",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Mekatronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "25"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "123000",
+                            "#text": "322,28055"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203511365",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Mekatronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "5"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": "25"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510067",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Yazılım Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "5"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "25700",
+                            "#text": "446,97454"
+                        },
+                        "grant": "100"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510701",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Yazılım Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "33"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "61100",
+                            "#text": "386,93636"
+                        },
+                        "grant": "50"
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "203510773",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Yazılım Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "0",
+                            "#text": "12"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "253000",
+                            "#text": "260,33897"
+                        },
+                        "grant": "25"
+                    }
+                ]
+            },
+            {
+                "@name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+                "@uType": "Devlet",
+                "item": [
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810068",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "25700",
+                            "#text": "447,00268"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810157",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Biyomühendislik"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "50"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "95500",
+                            "#text": "346,3802"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810162",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Çevre Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "1",
+                            "#text": "40"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810077",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektronik ve Haberleşme Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "37700",
+                            "#text": "424,08449"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810159",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Enerji Sistemleri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "1",
+                            "#text": "40"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810129",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Gıda Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "144000",
+                            "#text": "307,99671"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810111",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "51200",
+                            "#text": "401,55527"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810086",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Kimya Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "74800",
+                            "#text": "369,13426"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810095",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "35500",
+                            "#text": "427,88087"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "105810158",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Malzeme Bilimi ve Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "50"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "142000",
+                            "#text": "309,55144"
+                        },
+                        "grant": null
+                    }
+                ]
+            },
+            {
+                "@name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+                "@uType": "Devlet",
+                "item": [
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "112910017",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Bilgisayar Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "112910025",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Biyomedikal Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "112910018",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "112910019",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    }
+                ]
+            },
+            {
+                "@name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+                "@uType": "Devlet",
+                "item": [
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "111110046",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Biyomedikal Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "1",
+                            "#text": "30"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "111110081",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "111110069",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Endüstri Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "111110058",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik Fakültesi",
+                        "@id": "111110070",
+                        "name": {
+                            "@lang": "tr",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "60"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    }
+                ]
+            },
+            {
+                "@name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+                "@uType": "Devlet",
+                "item": [
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "105710103",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Biyomedikal Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "105000",
+                            "#text": "336,71929"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "105710042",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Elektrik-Elektronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "55400",
+                            "#text": "395,14565"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "105710184",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Harita Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "180000",
+                            "#text": "288,25699"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "105710087",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "İnşaat Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "88600",
+                            "#text": "353,45163"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "105710051",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Makine Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "73900",
+                            "#text": "370,19793"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "105710078",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Malzeme Bilimi ve Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "264000",
+                            "#text": "257,31486"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "105710112",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Mekatronik Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "2",
+                            "#text": "70"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "90400",
+                            "#text": "351,52654"
+                        },
+                        "grant": null
+                    },
+                    {
+                        "@faculty": "Mühendislik ve Mimarlık Fakültesi",
+                        "@id": "105710315",
+                        "name": {
+                            "@lang": "en",
+                            "@second": "No",
+                            "#text": "Petrol ve Doğalgaz Mühendisliği"
+                        },
+                        "period": "4",
+                        "quota": {
+                            "@spec": "1",
+                            "#text": "40"
+                        },
+                        "field": "SAY",
+                        "last_min_score": {
+                            "@order": "0",
+                            "#text": "0"
+                        },
+                        "grant": null
+                    }
+                ]
+            }
+        ]
+    }
+}

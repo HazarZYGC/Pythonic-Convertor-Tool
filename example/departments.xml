@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="utf-8"?>
+<departments>
+	<university name="DOKUZ EYLÜL ÜNİVERSİTESİ" uType="Devlet">
+		<item faculty="Mühendislik Fakültesi" id="103110442">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="3">90</quota>
+			<field>SAY</field>
+			<last_min_score order="37000">425,12447</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110451">
+			<name lang="tr" second="No">Çevre Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">80</quota>
+			<field>SAY</field>
+			<last_min_score order="232000">266,94283</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110469">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="3">90</quota>
+			<field>SAY</field>
+			<last_min_score order="41100">418,0695</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110478">
+			<name lang="tr" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="3">90</quota>
+			<field>SAY</field>
+			<last_min_score order="50000">403,47177</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110487">
+			<name lang="tr" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="3">90</quota>
+			<field>SAY</field>
+			<last_min_score order="62400">385,17519</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103130128">
+			<name lang="tr" second="Yes">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="3">90</quota>
+			<field>SAY</field>
+			<last_min_score order="86300">355,9879</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110496">
+			<name lang="tr" second="No">Jeofizik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="1">20</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110503">
+			<name lang="tr" second="No">Jeoloji Mühendisliği</name>
+			<period>4</period>
+			<quota spec="1">30</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110512">
+			<name lang="tr" second="No">Maden Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110521">
+			<name lang="tr" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="3">90</quota>
+			<field>SAY</field>
+			<last_min_score order="55200">395,47115</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103130137">
+			<name lang="tr" second="Yes">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="3">90</quota>
+			<field>SAY</field>
+			<last_min_score order="75500">368,18479</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110539">
+			<name lang="tr" second="No">Metalurji ve Malzeme Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="142000">309,13777</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103110548">
+			<name lang="tr" second="No">Tekstil Mühendisliği</name>
+			<period>4</period>
+			<quota spec="1">40</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+	</university>
+	<university name="EGE ÜNİVERSİTESİ" uType="Devlet">
+		<item faculty="Mühendislik Fakültesi" id="103410333">
+			<name lang="tr" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="3">100</quota>
+			<field>SAY</field>
+			<last_min_score order="34100">430,49316</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103410342">
+			<name lang="tr" second="No">Biyomühendislik</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="115000">329,04377</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103410351">
+			<name lang="tr" second="No">Deri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="1">20</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103410369">
+			<name lang="tr" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">80</quota>
+			<field>SAY</field>
+			<last_min_score order="41300">417,59504</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103410378">
+			<name lang="tr" second="No">Gıda Mühendisliği</name>
+			<period>4</period>
+			<quota spec="4">130</quota>
+			<field>SAY</field>
+			<last_min_score order="165000">295,84276</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103410387">
+			<name lang="tr" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="52700">399,18119</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103410396">
+			<name lang="en" second="No">Kimya Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">80</quota>
+			<field>SAY</field>
+			<last_min_score order="88600">353,42893</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103410403">
+			<name lang="tr" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">80</quota>
+			<field>SAY</field>
+			<last_min_score order="47100">407,98429</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="103410412">
+			<name lang="tr" second="No">Tekstil Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">80</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+	</university>
+	<university name="YAŞAR ÜNİVERSİTESİ" uType="Vakıf">
+		<item faculty="Mühendislik Fakültesi" id="206010309">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">7</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010318">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">5</quota>
+			<field>SAY</field>
+			<last_min_score order="35000">428,71376</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010327">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">16</quota>
+			<field>SAY</field>
+			<last_min_score order="81300">361,47049</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010866">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">22</quota>
+			<field>SAY</field>
+			<last_min_score order="195000">281,5025</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010424">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">3</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010433">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">5</quota>
+			<field>SAY</field>
+			<last_min_score order="45100">411,23348</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010442">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">12</quota>
+			<field>SAY</field>
+			<last_min_score order="93800">348,12517</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011079">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">30</quota>
+			<field>SAY</field>
+			<last_min_score order="272000">254,97478</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010336">
+			<name lang="en" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">10</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010345">
+			<name lang="en" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">6</quota>
+			<field>SAY</field>
+			<last_min_score order="38400">422,78314</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010354">
+			<name lang="en" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">8</quota>
+			<field>SAY</field>
+			<last_min_score order="69400">375,92321</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011088">
+			<name lang="en" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">36</quota>
+			<field>SAY</field>
+			<last_min_score order="230000">267,69849</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011025">
+			<name lang="en" second="No">Enerji Sistemleri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">3</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011034">
+			<name lang="en" second="No">Enerji Sistemleri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">3</quota>
+			<field>SAY</field>
+			<last_min_score order="60100">388,38184</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011043">
+			<name lang="en" second="No">Enerji Sistemleri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">18</quota>
+			<field>SAY</field>
+			<last_min_score order="218000">272,2206</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011052">
+			<name lang="en" second="No">Enerji Sistemleri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">6</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011149">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">6</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011113">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">5</quota>
+			<field>SAY</field>
+			<last_min_score order="71200">373,61939</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011122">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">11</quota>
+			<field>SAY</field>
+			<last_min_score order="106000">336,03835</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206011131">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">28</quota>
+			<field>SAY</field>
+			<last_min_score order="283000">252,00511</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206090348">
+			<name lang="en" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">3</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206090347">
+			<name lang="en" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">3</quota>
+			<field>SAY</field>
+			<last_min_score order="56300">393,87238</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206090354">
+			<name lang="en" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">14</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206090355">
+			<name lang="en" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">10</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010557">
+			<name lang="en" second="No">Yazılım Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">4</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010566">
+			<name lang="en" second="No">Yazılım Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">5</quota>
+			<field>SAY</field>
+			<last_min_score order="34800">429,13373</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010584">
+			<name lang="en" second="No">Yazılım Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">12</quota>
+			<field>SAY</field>
+			<last_min_score order="66400">379,71841</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="206010875">
+			<name lang="en" second="No">Yazılım Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">29</quota>
+			<field>SAY</field>
+			<last_min_score order="256000">259,5568</last_min_score>
+			<grant>25</grant>
+		</item>
+	</university>
+	<university name="İZMİR EKONOMİ ÜNİVERSİTESİ" uType="Vakıf">
+		<item faculty="Mühendislik Fakültesi" id="203510022">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">4</quota>
+			<field>SAY</field>
+			<last_min_score order="22900">452,64899</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510676">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">24</quota>
+			<field>SAY</field>
+			<last_min_score order="47500">407,33432</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510746">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">16</quota>
+			<field>SAY</field>
+			<last_min_score order="199000">279,65982</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511374">
+			<name lang="en" second="No">Biyomedikal Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">2</quota>
+			<field>SAY</field>
+			<last_min_score order="51200">401,55931</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511383">
+			<name lang="en" second="No">Biyomedikal Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">22</quota>
+			<field>SAY</field>
+			<last_min_score order="188000">284,42427</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510879">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">4</quota>
+			<field>SAY</field>
+			<last_min_score order="41200">417,85017</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510888">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">32</quota>
+			<field>SAY</field>
+			<last_min_score order="70200">374,85676</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510897">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">4</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510049">
+			<name lang="en" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">5</quota>
+			<field>SAY</field>
+			<last_min_score order="30100">438,24642</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510694">
+			<name lang="en" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">35</quota>
+			<field>SAY</field>
+			<last_min_score order="54100">397,07123</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510764">
+			<name lang="en" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">14</quota>
+			<field>SAY</field>
+			<last_min_score order="264000">257,14913</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511338">
+			<name lang="en" second="No">Genetik ve Biyomühendislik</name>
+			<period>4</period>
+			<quota spec="0">3</quota>
+			<field>SAY</field>
+			<last_min_score order="54200">396,85601</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511471">
+			<name lang="en" second="No">Genetik ve Biyomühendislik</name>
+			<period>4</period>
+			<quota spec="0">30</quota>
+			<field>SAY</field>
+			<last_min_score order="234000">266,39315</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510913">
+			<name lang="en" second="No">Gıda Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">2</quota>
+			<field>SAY</field>
+			<last_min_score order="137000">312,72264</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510922">
+			<name lang="en" second="No">Gıda Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">18</quota>
+			<field>SAY</field>
+			<last_min_score order="235000">265,98736</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511453">
+			<name lang="en" second="No">Havacılık ve Uzay Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">3</quota>
+			<field>SAY</field>
+			<last_min_score order="42200">416,06253</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511489">
+			<name lang="en" second="No">Havacılık ve Uzay Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">30</quota>
+			<field>SAY</field>
+			<last_min_score order="194000">281,77961</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511153">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">5</quota>
+			<field>SAY</field>
+			<last_min_score order="58600">390,49179</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511444">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">36</quota>
+			<field>SAY</field>
+			<last_min_score order="106000">336,17099</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511277">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">9</quota>
+			<field>SAY</field>
+			<last_min_score order="285000">251,66609</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511435">
+			<name lang="en" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">4</quota>
+			<field>SAY</field>
+			<last_min_score order="42800">414,98346</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511408">
+			<name lang="en" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">36</quota>
+			<field>SAY</field>
+			<last_min_score order="80100">362,85975</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511347">
+			<name lang="en" second="No">Mekatronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">3</quota>
+			<field>SAY</field>
+			<last_min_score order="47600">407,07382</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511356">
+			<name lang="en" second="No">Mekatronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">25</quota>
+			<field>SAY</field>
+			<last_min_score order="123000">322,28055</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203511365">
+			<name lang="en" second="No">Mekatronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">5</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant>25</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510067">
+			<name lang="en" second="No">Yazılım Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">5</quota>
+			<field>SAY</field>
+			<last_min_score order="25700">446,97454</last_min_score>
+			<grant>100</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510701">
+			<name lang="en" second="No">Yazılım Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">33</quota>
+			<field>SAY</field>
+			<last_min_score order="61100">386,93636</last_min_score>
+			<grant>50</grant>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="203510773">
+			<name lang="en" second="No">Yazılım Mühendisliği</name>
+			<period>4</period>
+			<quota spec="0">12</quota>
+			<field>SAY</field>
+			<last_min_score order="253000">260,33897</last_min_score>
+			<grant>25</grant>
+		</item>
+	</university>
+	<university name="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" uType="Devlet">
+		<item faculty="Mühendislik Fakültesi" id="105810068">
+			<name lang="en" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="25700">447,00268</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810157">
+			<name lang="en" second="No">Biyomühendislik</name>
+			<period>4</period>
+			<quota spec="2">50</quota>
+			<field>SAY</field>
+			<last_min_score order="95500">346,3802</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810162">
+			<name lang="en" second="No">Çevre Mühendisliği</name>
+			<period>4</period>
+			<quota spec="1">40</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810077">
+			<name lang="en" second="No">Elektronik ve Haberleşme Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="37700">424,08449</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810159">
+			<name lang="en" second="No">Enerji Sistemleri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="1">40</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810129">
+			<name lang="en" second="No">Gıda Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="144000">307,99671</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810111">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="51200">401,55527</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810086">
+			<name lang="en" second="No">Kimya Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="74800">369,13426</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810095">
+			<name lang="en" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="35500">427,88087</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="105810158">
+			<name lang="en" second="No">Malzeme Bilimi ve Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">50</quota>
+			<field>SAY</field>
+			<last_min_score order="142000">309,55144</last_min_score>
+			<grant/>
+		</item>
+	</university>
+	<university name="İZMİR BAKIRÇAY ÜNİVERSİTESİ" uType="Devlet">
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="112910017">
+			<name lang="tr" second="No">Bilgisayar Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="112910025">
+			<name lang="tr" second="No">Biyomedikal Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="112910018">
+			<name lang="tr" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="112910019">
+			<name lang="tr" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+	</university>
+	<university name="İZMİR DEMOKRASİ ÜNİVERSİTESİ" uType="Devlet">
+		<item faculty="Mühendislik Fakültesi" id="111110046">
+			<name lang="tr" second="No">Biyomedikal Mühendisliği</name>
+			<period>4</period>
+			<quota spec="1">30</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="111110081">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="111110069">
+			<name lang="tr" second="No">Endüstri Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="111110058">
+			<name lang="tr" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik Fakültesi" id="111110070">
+			<name lang="tr" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">60</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+	</university>
+	<university name="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" uType="Devlet">
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="105710103">
+			<name lang="en" second="No">Biyomedikal Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="105000">336,71929</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="105710042">
+			<name lang="en" second="No">Elektrik-Elektronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="55400">395,14565</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="105710184">
+			<name lang="en" second="No">Harita Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="180000">288,25699</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="105710087">
+			<name lang="en" second="No">İnşaat Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="88600">353,45163</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="105710051">
+			<name lang="en" second="No">Makine Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="73900">370,19793</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="105710078">
+			<name lang="en" second="No">Malzeme Bilimi ve Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="264000">257,31486</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="105710112">
+			<name lang="en" second="No">Mekatronik Mühendisliği</name>
+			<period>4</period>
+			<quota spec="2">70</quota>
+			<field>SAY</field>
+			<last_min_score order="90400">351,52654</last_min_score>
+			<grant/>
+		</item>
+		<item faculty="Mühendislik ve Mimarlık Fakültesi" id="105710315">
+			<name lang="en" second="No">Petrol ve Doğalgaz Mühendisliği</name>
+			<period>4</period>
+			<quota spec="1">40</quota>
+			<field>SAY</field>
+			<last_min_score order="0">0</last_min_score>
+			<grant/>
+		</item>
+	</university>
+</departments>
