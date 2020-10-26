@@ -1,4 +1,4 @@
-###Implementation Details & Requirements
+### Implementation Details & Requirements
 ● The tool takes command line arguments according to the formats you want to convert
 between them. A typical command line usage is as follows: <br><br>
 `python <filename> <input file> <output file/xsd file> <type>` <br><br><br>
